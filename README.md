@@ -12,5 +12,14 @@
 ### !exclamation!exclamation!
 ### ~tilde~tilde~
 ### `backtick`backtick`
-
+### @at@at@
+### #hash#hash#
+### $dolla$dolla$
+### %percent%percent%
+### ^caret^caret^
+### &amp&amp&
+### *aster*aster*
+### (oparen(oparen(
+### )cparen)cparen)
+### -hyph-hyph-
 ### _uscore_uscore_

@@ -1,5 +1,5 @@
 * [README.md](README.md)
-	* [heading 1](github.md#heading-1)
+	* [heading 1](README.md#heading-1)
 
 
 # heading 1

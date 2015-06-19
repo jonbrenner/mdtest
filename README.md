@@ -2,6 +2,22 @@
 	* [heading 1](README.md#heading-1)
 
 
+## h2: first element
+```
+These headings should be organized into a tree:
+☆
+|--- h2: first element
+|--- h1
+|  |--- h2
+|--- h1 again
+```
+# h1
+
+## h2
+
+# h1 again
+
+
 # heading 1
 
 # h1
